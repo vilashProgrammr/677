@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"mainfile":"src/index.html","terminalcommand":"npm start"}
+=======
+{"mainfile":"src/app/app.component.html"}
+>>>>>>> d2b46887cd3717fa957c543bed1cbfdd154b4764
